@@ -1,4 +1,4 @@
-# Fashion Image Classifier API + Streamlit UI
+# Image Classifier API + Streamlit UI
 
 This is a simple end-to-end ML project that lets you upload fashion images and get predictions via a trained CNN model. Built with **FastAPI**, **Streamlit**, and **TensorFlow**.
 
