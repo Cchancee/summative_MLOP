@@ -6,8 +6,10 @@ This is a simple end-to-end ML project that lets you upload fashion images and g
 
 ## Live URLs
 
-- **FastAPI Backend**: [https://your-fastapi-url.onrender.com](https://fashion-prediction-backend.onrender.com)
-- **Streamlit UI**: [https://your-streamlit-url.onrender.com](https://fashion-prediction-frontend.onrender.com)
+- **FastAPI Backend**: https://www.youtube.com/watch?v=PqbDMhGldbc
+
+- **FastAPI Backend**: https://fashion-prediction-backend.onrender.com
+- **Streamlit UI**: https://fashion-prediction-frontend.onrender.com
 
 ---
 
